@@ -4,7 +4,7 @@
 
 > Building efficient, well-engineered software — one project at a time.
 
-I'm a Computer Science and Mathematics double major at Purdue University with interests in backend development, security, and machine learning. I enjoy building scalable tools that challenge me to learn new technologies and deepen my understanding of software design. I'm always looking for something new to discover tackling complex algorithms and problems.
+I'm a Computer Science and Mathematics double major at Purdue University with interests in backend development, security, and machine learning. I enjoy building scalable tools that challenge me to learn new technologies and deepen my understanding of software design. I'm always looking for something new to discover while tackling complex algorithms and problems.
 
 ---
 
